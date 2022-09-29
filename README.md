@@ -1,16 +1,13 @@
-### Hi there 👋
+# JohnLest
+### How I am? 
+I am a backend developer but also specialized in embedded micro-computing development <br>
+I develop mainly in:
+* Python,
+* C#,
+* C,
+* C++
 
-<!--
-**JohnLest/JohnLest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I also teach my knowledge since a few years
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Where I am? 
+Sometimes I have fun streaming when I program (or play) on [twitch](https://www.twitch.tv/johnlest "JohnLest"). And I post via [twitter](https://twitter.com/JohnOLest "JohnoLest") my projects.
